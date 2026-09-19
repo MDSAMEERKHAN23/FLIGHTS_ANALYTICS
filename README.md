@@ -87,3 +87,4 @@ This project focuses on converting raw data into an interactive dashboard that a
 Data Analysis | Microsoft Excel | DAX | Data Visualization | Dashboard Development | KPI Analysis | Business Intelligence | Data Cleaning
 
 ---
+SCREENSHOT OF PROJECTS=https://github.com/MDSAMEERKHAN23/FLIGHTS_ANALYTICS/blob/main/Screenshot%202026-09-19%20082531.png
